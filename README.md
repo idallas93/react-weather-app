@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React-weather-app
 
 Created for cadre coding assignment
 
